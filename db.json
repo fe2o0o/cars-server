@@ -142,7 +142,8 @@
       "id": 1,
       "name": "ibrahim mohamed",
       "email": "ibrahimmohamed@gmail.com",
-      "password": "12345"
+      "password": "12345",
+      "phone":"01284954021"
     }
   ]
 }
