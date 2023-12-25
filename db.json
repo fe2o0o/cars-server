@@ -1,0 +1,148 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "image": "https://images.dubizzle.com.eg/thumbnails/66851189-240x180.webp",
+      "title": "VOLKSWAGEN ID6 CROZZ فولكس واجن كهرباء 2023",
+      "price": 2350000
+    },
+    {
+      "id": 2,
+      "image": "https://images.dubizzle.com.eg/thumbnails/65604217-800x600.jpeg",
+      "title": "Menlo - BEST PRICE",
+      "price": 1375000
+    },
+    {
+      "id": 3,
+      "image": "https://images.dubizzle.com.eg/thumbnails/65046127-800x600.jpeg",
+      "title": "BMW I3 2023 ELECTRIC كهرباء",
+      "price": 2050000
+    },
+    {
+      "id": 4,
+      "image": "https://images.dubizzle.com.eg/thumbnails/76198032-800x600.jpeg",
+      "title": "volkswagen id4 فولكس كهرباء 2024",
+      "price": 1950000
+    },
+    {
+      "id": 5,
+      "image": "https://images.dubizzle.com.eg/thumbnails/55190762-800x600.jpeg",
+      "title": "Mercedes Glc 300 4 matic (عجل خلفي بيلف + العفشة كهرباء )",
+      "price": 5600000
+    },
+    {
+      "id": 6,
+      "image": "https://images.dubizzle.com.eg/thumbnails/65132237-800x600.jpeg",
+      "title": "Audi Q3",
+      "price": 600000
+    },
+    {
+      "id": 7,
+      "image": "https://images.dubizzle.com.eg/thumbnails/61441188-800x600.jpeg",
+      "title": "honda ens1 2023",
+      "price": 1530000
+    },
+    {
+      "id": 8,
+      "image": "https://images.dubizzle.com.eg/thumbnails/57306414-800x600.jpeg",
+      "title": "BMW ELECTRIC IX3 كهرباء HUD+ 360 CAM",
+      "price": 3350000
+    },
+    {
+      "id": 9,
+      "image": "https://images.dubizzle.com.eg/thumbnails/75278389-800x600.jpeg",
+      "title": "Tesla Model Y",
+      "price": 2770000
+    },
+    {
+      "id": 10,
+      "image": "https://images.dubizzle.com.eg/thumbnails/76793632-800x600.jpeg",
+      "title": "Tesla Model X 2023",
+      "price": 5250000
+    }
+  ],
+  "agancy": [
+    {
+      "id": 1,
+      "service": "فحص وصيانة نظام البطارية",
+      "description": "فحص وتقديم خدمات الصيانة لنظام البطارية الكهربائية، بما في ذلك اختبار الأداء وتبديل الخلايا الضعيفة.",
+      "image": "assets/img/service-1.jpg"
+    },
+    {
+      "id": 2,
+      "service": "تشخيص وإصلاح نظام الشحن",
+      "description": "تشخيص وإصلاح أي مشكلات في نظام الشحن الكهربائي، بما في ذلك المولد ومراقبة الشحن.",
+      "image": "assets/img/service-2.jpg"
+    },
+    {
+      "id": 3,
+      "service": "فحص وصيانة نظام القيادة",
+      "description": "فحص وتقديم خدمات الصيانة لنظام القيادة الكهربائي، بما في ذلك المحرك والتحكم الإلكتروني.",
+      "image": "assets/img/service-3.jpg"
+    },
+    {
+      "id": 4,
+      "service": "فحص وإصلاح نظام الفرامل",
+      "description": "فحص وإصلاح أنظمة الفرامل الكهربائية بما في ذلك أقراص الفرامل ووحدات التحكم.",
+      "image": "assets/img/service-4.jpeg"
+    },
+    {
+      "id": 5,
+      "service": "برمجة وتحديث البرامج الثابتة",
+      "description": "برمجة وتحديث البرامج الثابتة لأنظمة التحكم والإلكترونيات لتحسين الأداء وتحديث الميزات.",
+      "image": "assets/img/service-1.jpg"
+    },
+    {
+      "id": 6,
+      " service": "صيانة نظام التبريد",
+      "description": "تفقد وصيانة نظام التبريد الكهربائي لضمان تشغيل السيارة بكفاءة ودون مشاكل.",
+      "image": "assets/img/service-2.jpg"
+    }
+  ],
+  "stations": [
+    {
+      "id": 1,
+      "name": "محطة الشحن 1",
+      "location": "شارع الكهرباء، القاهرة",
+      "availableconnectors": [
+        "شاحن CCS",
+        "شاحن CHAdeMO",
+        "شاحن منزلي"
+      ],
+      "power_rating": "50 kW",
+      "status": "متاحة"
+    },
+    {
+      "id": 2,
+      "name": "محطة الشحن 2",
+      "location": "شارع الكهرباء، الإسكندرية",
+      "availableconnectors": [
+        "شاحن CCS",
+        "شاحن Type 2",
+        "شاحن منزلي"
+      ],
+      "power_rating": "75 kW",
+      "status": "غير متاحة"
+    },
+    {
+      "id": 3,
+      "name": "محطة الشحن 3",
+      "location": "شارع الطاقة، الإسماعيلية",
+      "availableconnectors": [
+        "شاحن Type 2",
+        "شاحن CHAdeMO",
+        "شاحن منزلي"
+      ],
+      "power_rating": "60 kW",
+      "status": "متاحة"
+    }
+  ],
+  "signin": [
+    {
+      "id": 1,
+      "name": "ibrahim mohamed",
+      "email": "ibrahimmohamed@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
